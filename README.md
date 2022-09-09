@@ -1,5 +1,5 @@
 # Faceup
-Application permettant de prendre une photo et d’analyser ses données via une intelligence artificielle.
+Application mobile permettant de prendre une photo et d’analyser ses données via une intelligence artificielle.
 <br>
 <li>React Native</li>
 <li>Express.JS</li>
